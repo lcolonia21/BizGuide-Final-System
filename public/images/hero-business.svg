@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="450" viewBox="0 0 600 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="600" y2="450" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg-gradient)"/>
+  
+  <!-- Business growth chart -->
+  <path d="M100,350 L500,350" stroke="#4F46E5" stroke-width="2"/>
+  <path d="M100,100 L100,350" stroke="#4F46E5" stroke-width="2"/>
+  
+  <!-- Growth line -->
+  <path d="M100,300 Q200,280 300,200 T500,100" stroke="#06B6D4" stroke-width="4" fill="none"/>
+  
+  <!-- Data points -->
+  <circle cx="100" cy="300" r="6" fill="#4F46E5"/>
+  <circle cx="200" cy="280" r="6" fill="#4F46E5"/>
+  <circle cx="300" cy="200" r="6" fill="#4F46E5"/>
+  <circle cx="400" cy="150" r="6" fill="#4F46E5"/>
+  <circle cx="500" cy="100" r="6" fill="#4F46E5"/>
+  
+  <!-- Abstract shapes -->
+  <rect x="150" y="150" width="40" height="40" rx="8" fill="#4F46E5" opacity="0.1"/>
+  <circle cx="400" cy="250" r="30" fill="#06B6D4" opacity="0.1"/>
+  <path d="M450,180 L480,150 L480,180 Z" fill="#4F46E5" opacity="0.2"/>
+  
+  <!-- Grid lines -->
+  <g stroke="#4F46E5" stroke-width="1" opacity="0.1">
+    <line x1="100" y1="150" x2="500" y2="150"/>
+    <line x1="100" y1="200" x2="500" y2="200"/>
+    <line x1="100" y1="250" x2="500" y2="250"/>
+    <line x1="100" y1="300" x2="500" y2="300"/>
+    <line x1="200" y1="100" x2="200" y2="350"/>
+    <line x1="300" y1="100" x2="300" y2="350"/>
+    <line x1="400" y1="100" x2="400" y2="350"/>
+  </g>
+</svg> 
