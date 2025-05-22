@@ -115,10 +115,6 @@ The BizGuide platform is built using modern web technologies:
 - **Shadcn/UI**: High-quality UI components
 - **Framer Motion**: Animation library for React
 
-### APIs and Data
-- **Server Components**: Next.js server components for optimized rendering
-- **API Routes**: Next.js API routes for backend functionality
-
 ## Business Type Coverage
 
 BizGuide currently provides detailed recommendations and guides for these business types:
@@ -158,25 +154,12 @@ Each business type guide includes sector-specific:
 
 ### Installation
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/bizguide.git
-cd bizguide
-
 # Install dependencies
 npm install
 
 # Start the development server
 npm run dev
 ```
-## Future Plans
-
-BizGuide is continuously evolving with these planned enhancements:
-
-- **Additional Business Types**: Expanding coverage to more business sectors
-- **Interactive Financial Tools**: Budget calculators and financial projections
-- **Business Plan Generator**: Export comprehensive business plans
-- **Market Trend Analysis**: Real-time market data integration
-- **Community Features**: Forums and networking opportunities
 
 ## About BizGuide
 
