@@ -164,35 +164,10 @@ cd bizguide
 
 # Install dependencies
 npm install
-# or
-yarn install
-# or
-pnpm install
 
 # Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
-
-### Project Structure
-```
-bizguide/
-├── app/                    # Next.js app directory
-│   ├── api/                # API routes
-│   ├── dashboard/          # Dashboard pages
-│   ├── insights/           # Insights pages
-│   ├── recommendations/    # Recommendation pages
-│   └── community/          # Community pages
-├── components/             # Reusable React components
-├── config/                 # Configuration files
-├── hooks/                  # Custom React hooks
-├── lib/                    # Utility functions
-└── public/                 # Static assets
-```
-
 ## Future Plans
 
 BizGuide is continuously evolving with these planned enhancements:
@@ -202,20 +177,6 @@ BizGuide is continuously evolving with these planned enhancements:
 - **Business Plan Generator**: Export comprehensive business plans
 - **Market Trend Analysis**: Real-time market data integration
 - **Community Features**: Forums and networking opportunities
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## About BizGuide
 
