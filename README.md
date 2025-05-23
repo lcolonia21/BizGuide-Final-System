@@ -98,23 +98,6 @@ BizGuide can be used as a tool to help clients visualize different business oppo
 - **External Resources**: Links to templates, guides, and tools
 - **Business Type Resources**: Resources specifically curated for each business type
 
-### ⚙️ Technical Features
-- **Dark Mode UI**: Clean, modern dark-themed interface
-- **Responsive Design**: Optimized for all device sizes
-- **Interactive Components**: Dynamic and engaging user experience
-
-## Technology Stack
-
-The BizGuide platform is built using modern web technologies:
-
-### Frontend
-- **Next.js 14**: React framework for server-side rendering and static site generation
-- **React**: UI component library
-- **TypeScript**: Type-safe JavaScript
-- **Tailwind CSS**: Utility-first CSS framework
-- **Shadcn/UI**: High-quality UI components
-- **Framer Motion**: Animation library for React
-
 ## Business Type Coverage
 
 BizGuide currently provides detailed recommendations and guides for these business types:
@@ -146,25 +129,8 @@ Each business type guide includes sector-specific:
 5. **Resource Access**: View related videos, articles, and external resources
 6. **Community**: Connect with similar entrepreneurs (coming soon)
 
-## Getting Started
-
-### Prerequisites
-- Node.js 18.x or higher
-- npm, yarn, or pnpm
-
-### Installation
-```bash
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
 ## About BizGuide
 
 BizGuide is committed to supporting entrepreneurs at every stage of their business journey. Our platform combines expert knowledge, data-driven insights, and practical resources to help users make informed decisions when starting and growing their businesses.
-
----
 
 BizGuide - Your guide to business success with personalized recommendations 
